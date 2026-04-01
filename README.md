@@ -32,7 +32,7 @@ node server.js
 ---
 
 ## 🌐 Сайт сілтемесі (Live Demo)
-👉 http://127.0.0.1:5500/frontend/index.html
+👉 [http://127.0.0.1:5500/frontend/index.html](http://127.0.0.1:5500/frontend/index.html)
 
 (егер сайт интернетте болмаса, былай жаз:)
 👉 Жоба тек жергілікті компьютерде жұмыс істейді
